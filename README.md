@@ -119,23 +119,23 @@ Below is an example of the segmented image and the histogram of cell areas.
 ![实验后图像](image/after.jpg)
 *图 2. 实验后的图像*
 
-![轮廓识别 1](images/outline_before.png)
+![轮廓识别 1](image/outline_before.png)
 *图 3. 实验前的图像识别轮廓*
 
-![轮廓识别 2](images/outline_after.png)
+![轮廓识别 2](image/outline_after.png)
 *图 4. 实验后的图像识别轮廓*
 
 
-![分割结果 1](images/scp-1.png)
+![分割结果 1](image/scp-1.png)
 *图 5. 实验前的图像分割识别*
-![分割结果 2](images/scp-2.png)
+![分割结果 2](image/scp-2.png)
 *图 6. 实验后的图像分割识别*
 
 
-![柱状统计图 1](images/his-1.png)
+![柱状统计图 1](image/his-1.png)
 *图 7. 实验后的图像面积柱状统计*
 
-![柱状统计图 2](images/his-2.png)
+![柱状统计图 2](image/his-2.png)
 *图 8. 实验后的图像面积柱状统计*
 
 
