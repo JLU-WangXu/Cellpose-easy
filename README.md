@@ -121,8 +121,7 @@ Below is an example of the segmented image and the histogram of cell areas.
 
 ![轮廓识别 1](image/outline_before.png)
 *图 3. 实验前的图像识别轮廓*
-
-![轮廓识别 2](image/outline_after.png)
+![轮廓识别 2](image/outline after.png)
 *图 4. 实验后的图像识别轮廓*
 
 
@@ -134,7 +133,6 @@ Below is an example of the segmented image and the histogram of cell areas.
 
 ![柱状统计图 1](image/his-1.png)
 *图 7. 实验后的图像面积柱状统计*
-
 ![柱状统计图 2](image/his-2.png)
 *图 8. 实验后的图像面积柱状统计*
 
