@@ -130,39 +130,38 @@ Below is an example of the segmented image and the histogram of cell areas.
     <p>图 2. 实验后的图像</p>
 </div>
 
+
+
+### 实验前后图像对比
+
+<div align="center">
+    <img src="image/before.jpg" alt="实验前图像" width="300"/>
+    <img src="image/after.jpg" alt="实验后图像" width="300"/>
+    <p>图 1. 实验前的图像 &nbsp;&nbsp;&nbsp;&nbsp; 图 2. 实验后的图像</p>
+</div>
+
 ### 细胞识别和分割结果
 
 <div align="center">
-    <img src="image/outline before.png" alt="轮廓识别 1" width="500"/>
-    <p>图 3. 实验前的图像识别轮廓</p>
+    <img src="image/outline before.png" alt="轮廓识别 1" width="300"/>
+    <img src="image/outline after.png" alt="轮廓识别 2" width="300"/>
+    <p>图 3. 实验前的图像识别轮廓 &nbsp;&nbsp;&nbsp;&nbsp; 图 4. 实验后的图像识别轮廓</p>
 </div>
 
 <div align="center">
-    <img src="image/outline after.png" alt="轮廓识别 2" width="500"/>
-    <p>图 4. 实验后的图像识别轮廓</p>
-</div>
-
-<div align="center">
-    <img src="image/scp-1.png" alt="分割结果 1" width="500"/>
-    <p>图 5. 实验前的图像分割识别</p>
-</div>
-
-<div align="center">
-    <img src="image/scp-2.png" alt="分割结果 2" width="500"/>
-    <p>图 6. 实验后的图像分割识别</p>
+    <img src="image/scp-1.png" alt="分割结果 1" width="300"/>
+    <img src="image/scp-2.png" alt="分割结果 2" width="300"/>
+    <p>图 5. 实验前的图像分割识别 &nbsp;&nbsp;&nbsp;&nbsp; 图 6. 实验后的图像分割识别</p>
 </div>
 
 ### 细胞面积的柱状统计图
 
 <div align="center">
-    <img src="image/his-1.png" alt="柱状统计图 1" width="500"/>
-    <p>图 7. 实验前的图像面积柱状统计</p>
+    <img src="image/his-1.png" alt="柱状统计图 1" width="300"/>
+    <img src="image/his-2.png" alt="柱状统计图 2" width="300"/>
+    <p>图 7. 实验前的图像面积柱状统计 &nbsp;&nbsp;&nbsp;&nbsp; 图 8. 实验后的图像面积柱状统计</p>
 </div>
 
-<div align="center">
-    <img src="image/his-2.png" alt="柱状统计图 2" width="500"/>
-    <p>图 8. 实验后的图像面积柱状统计</p>
-</div>
 
 
 This README provides a step-by-step guide to reproducing the analysis, with details on installation, setup, and execution.
