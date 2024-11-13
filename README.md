@@ -1,10 +1,7 @@
-# Cellpose-easy
+# Cellpose-easy：Cell Segmentation and Analysis with Cellpose
 
-以下是基于你的代码的 README 文件示例：
 
 ---
-
-# Cell Segmentation and Analysis with Cellpose
 
 This project uses Cellpose and scikit-image to segment and analyze cells in an image, specifically calculating the cell count and areas while excluding edge cells.
 
@@ -47,7 +44,7 @@ import matplotlib.pyplot as plt
 Specify the path of the image you want to analyze:
 
 ```python
-image_path = '/content/outline before.png'
+image_path = '/content/outline before.png' #Insert the image path you want
 model = models.Cellpose(gpu=True, model_type='cyto')  # Using the 'cyto' model
 img = io.imread(image_path)
 ```
@@ -117,10 +114,10 @@ plt.show()
 
 Below is an example of the segmented image and the histogram of cell areas.
 
-![Segmented Image](figure1.png)
-
-![Histogram of Cell Areas](figure2.png)
-
----
+![实验前图像 1](images/before_experiment1.png)
+![实验后图像 1](images/after_experiment1.png)
+![轮廓识别 1](images/outline_recognition1.png)
+![分割结果 1](images/segmentation_result1.png)
+![柱状统计图 1](images/histogram1.png)
 
 This README provides a step-by-step guide to reproducing the analysis, with details on installation, setup, and execution.
