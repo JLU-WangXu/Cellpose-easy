@@ -114,23 +114,6 @@ plt.show()
 
 Below is an example of the segmented image and the histogram of cell areas.
 
-# Cell Segmentation and Analysis with Cellpose
-
-本项目展示了实验前后的图像、细胞轮廓识别、分割结果以及细胞面积的柱状统计图。
-
-### 实验前后图像对比
-
-<div align="center">
-    <img src="image/before.jpg" alt="实验前图像" width="500"/>
-    <p>图 1. 实验前的图像</p>
-</div>
-
-<div align="center">
-    <img src="image/after.jpg" alt="实验后图像" width="500"/>
-    <p>图 2. 实验后的图像</p>
-</div>
-
-
 
 ### 实验前后图像对比
 
@@ -157,8 +140,8 @@ Below is an example of the segmented image and the histogram of cell areas.
 ### 细胞面积的柱状统计图
 
 <div align="center">
-    <img src="image/his-1.png" alt="柱状统计图 1" width="300"/>
-    <img src="image/his-2.png" alt="柱状统计图 2" width="300"/>
+    <img src="image/his-1.png" alt="柱状统计图 1" width="400"/>
+    <img src="image/his-2.png" alt="柱状统计图 2" width="400"/>
     <p>图 7. 实验前的图像面积柱状统计 &nbsp;&nbsp;&nbsp;&nbsp; 图 8. 实验后的图像面积柱状统计</p>
 </div>
 
