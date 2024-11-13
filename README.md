@@ -115,9 +115,11 @@ plt.show()
 Below is an example of the segmented image and the histogram of cell areas.
 
 ![实验前图像](image/before.jpg)
+*图 1. 实验前的图像*
 ![实验后图像](image/after.jpg)
-
+*图 2. 实验后的图像*
 ![轮廓识别 1](images/outline_recognition1.png)
+
 ![分割结果 1](images/segmentation_result1.png)
 ![柱状统计图 1](images/histogram1.png)
 
